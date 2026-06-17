@@ -85,3 +85,7 @@ Learning, building, and exploring technology.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakankshakpoojari&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshakpoojari&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakankshakpoojari&color=blue" alt="Profile Views" />
+</p>
