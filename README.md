@@ -10,7 +10,7 @@ Learning, building, and exploring technology.
 
 <p align="center">
   <a href="mailto:aakankshakpoojari265@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/aakankshakpoojari">LinkedIn</a> •
+  <a href="https://linkedin.com/in/aakanksha-k-poojari">LinkedIn</a> •
   <a href="https://github.com/aakankshakpoojari">GitHub</a>
 </p>
 
@@ -55,7 +55,7 @@ Learning, building, and exploring technology.
 ### Full Stack Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,nodejs,express,mysql,postgresql,mongodb,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express,postgresql,mongodb,supabase,sqlite,firebase" />
 </p>
 
 ### DevOps & Tools
@@ -74,18 +74,10 @@ Learning, building, and exploring technology.
 ### Design & Productivity
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,notion" />
+  <img src="https://skillicons.dev/icons?i=figma,notion,canva" />
 </p>
 
-Canva
 
----
-
-## 🧠 Problem Solving
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aakankshakpoojari?theme=dark\&font=Karma)](https://leetcode.com/aakankshakpoojari/)
-
----
 
 ## 📊 GitHub Stats
 
