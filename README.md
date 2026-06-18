@@ -5,45 +5,25 @@ Computer Science Student
 </p>
 
 <p align="center">
-Learning, building, and exploring technology.
+Learning, building, and exploring technology
 </p>
 
 <p align="center">
   <a href="mailto:aakankshakpoojari265@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/aakanksha-k-poojari">LinkedIn</a> •
-  <a href="https://github.com/aakankshakpoojari">GitHub</a>
+  <a href="https://instagram.com/aakankshakpoojari">Instagram</a>
 </p>
 
 ---
 
 ##  About Me
 
-* Computer Science Student
 * Exploring MERN stack
 * Interested in learning new things
 * I like watching serieses and playing with my dog in my free time
 
 ---
 
-##  Current Focus
-
-* Building a server management system as part of my project internship
-* Improving System Design & Backend Engineering
-* Solving Data Structures & Algorithms Problems
-
----
-
-##  Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **Helix Server Manager** | A server management platform |
-| **PowerXchange** | Peer-to-peer book exchange platform |
-| **Unnati** | Empowering women through scholarships, internships, government schemes, and financial literacy |
-| **ScrowChain** | Escrow-based payment management system |
-| **Library Management System** | Built using Node.js, Express.js, EJS, and SQLite |
-
----
 ## 🛠 Tech Stack
 
 ### Languages
