@@ -11,7 +11,7 @@ Learning, building, and exploring technology
 <p align="center">
   <a href="mailto:aakankshakpoojari265@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/aakanksha-k-poojari">LinkedIn</a> •
-  <a href="https://instagram.com/aakankshakpoojari">Instagram</a>
+  <a href="https://instagram.com/aakankshapoojari">Instagram</a>
 </p>
 
 ---
