@@ -35,26 +35,13 @@ Learning, building, and exploring technology
 ### Full Stack Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express,postgresql,mongodb,supabase,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,postgresql,mongodb,supabase" />
 </p>
 
 ### DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vercel" />
-</p>
-
-
-### Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
-</p>
-
-### Design & Productivity
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,notion,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel" />
 </p>
 
 
@@ -66,6 +53,3 @@ Learning, building, and exploring technology
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshakpoojari&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aakankshakpoojari&color=blue" alt="Profile Views" />
-</p>
