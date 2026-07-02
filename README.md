@@ -49,8 +49,7 @@ Learning, building, and exploring technology
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aakankshakpoojari&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-alpha-seven-93.vercel.app/api?username=aakankshakpoojari&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aakankshakpoojari&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakankshakpoojari&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-alpha-seven-93.vercel.app/api/top-langs/?username=aakankshakpoojari&layout=compact&theme=tokyonight" />
 </p>
-
