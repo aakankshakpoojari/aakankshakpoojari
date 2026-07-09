@@ -1,17 +1,10 @@
 <h1 align="center">Hello, I'm Aakanksha</h1>
 
 <p align="center">
-Computer Science Student
-</p>
-
-<p align="center">
-Learning, building, and exploring technology
-</p>
-
-<p align="center">
   <a href="mailto:aakankshakpoojari265@gmail.com">Email</a> •
   <a href="https://linkedin.com/in/aakanksha-k-poojari">LinkedIn</a> •
-  <a href="https://instagram.com/aakankshapoojari">Instagram</a>
+  <a href="https://instagram.com/aakankshapoojari">Instagram</a> •
+  <a href="https://discordapp.com/users/aakankshakpoojari">Discord</a>
 </p>
 
 ---
@@ -24,7 +17,7 @@ Learning, building, and exploring technology
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -41,12 +34,12 @@ Learning, building, and exploring technology
 ### DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,render" />
 </p>
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-alpha-seven-93.vercel.app/api?username=aakankshakpoojari&show_icons=true&theme=tokyonight" />
