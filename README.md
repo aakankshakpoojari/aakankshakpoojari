@@ -10,36 +10,6 @@
 
 ---
 
-##  About Me
-
-* Exploring MERN stack
-* Interested in learning new things
-* I like watching serieses and playing with my dog in my free time
-
----
-
-##  Tech Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,r" />
-</p>
-
-### Full Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,postgresql,mongodb,supabase" />
-</p>
-
-### DevOps & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,render" />
-</p>
-
-
-
 ##  GitHub Stats
 
 <p align="center">
